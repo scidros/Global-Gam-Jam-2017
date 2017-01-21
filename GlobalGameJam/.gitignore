@@ -3,7 +3,6 @@
 # =============== #
 [Tt]emp/
 [Oo]bj/
-[Bb]uild
 /[Ll]ibrary/
 sysinfo.txt
 *.stackdump
@@ -33,3 +32,4 @@ Icon?
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
+~$Bug report.xlsx
